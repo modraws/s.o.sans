@@ -1,4 +1,4 @@
-click the green Code button, then Download .zip to download the fonts  
+# click the green Code button, then Download .zip to download the fonts  
 
 i will add more weights as time goes on probably  
 
